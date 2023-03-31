@@ -1,2 +1,2 @@
 hello
-github tri
+github trigger
